@@ -5,6 +5,7 @@ import { TeamHomePage } from '../team-home/team-home';
 @Component({
   selector: 'page-game',
   templateUrl: 'game.html',
+
 })
 export class GamePage {
 
